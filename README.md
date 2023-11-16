@@ -10,6 +10,10 @@
 ### Project Overview
 
 This Data analysis project aims to provide  insights of the sales perfomance of e-commerce company over the past year. By analysing various aspects of the sales data, we seek to identify trends, make data driven decisions, and gain a deeper understanding of the company's perfomance. 
+[2022 KDHS Nyandarua Extract latest till midnight.xlsx](https://github.com/njukiherbert/Documenting-Data-Analysis-Project.-with-Irene-Nafula-/files/13375866/2022.KDHS.Nyandarua.Extract.latest.till.midnight.xlsx)
+
+![75020d9c362140a5ac0b9fbc3fc5844e](https://github.com/njukiherbert/Documenting-Data-Analysis-Project.-with-Irene-Nafula-/assets/102215333/3057ec69-821a-464e-a028-59866f3c10cd)
+
 
 ### Data Sources
 
