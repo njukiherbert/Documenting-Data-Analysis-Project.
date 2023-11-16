@@ -8,6 +8,7 @@
 
 
 ### Project Overview
+---
 
 This Data analysis project aims to provide  insights of the sales perfomance of e-commerce company over the past year. By analysing various aspects of the sales data, we seek to identify trends, make data driven decisions, and gain a deeper understanding of the company's perfomance. 
 [2022 KDHS Nyandarua Extract latest till midnight.xlsx](https://github.com/njukiherbert/Documenting-Data-Analysis-Project.-with-Irene-Nafula-/files/13375866/2022.KDHS.Nyandarua.Extract.latest.till.midnight.xlsx)
@@ -20,6 +21,7 @@ This Data analysis project aims to provide  insights of the sales perfomance of 
 Sales Data: The primary dataset used for this analysis is the "sales_data.csv" file containing detailed information about each sale made by the company. 
 
 ### Tools Used
+---
 - EXCEL- Data cleaning
    - [Download here](https://microsoft.org)
 - SQL SERVER - Data Analysis
@@ -61,6 +63,7 @@ The analysis results are summarised as follows:
 3. Customer segments with high lifetime value should be targeted for marketing efforts
 
 ### Recommendations
+---
 
 Based on the analysis we recommend the following actions:
 
@@ -84,6 +87,22 @@ Examples of references include:
 - Books -[SQL FOR BUSINESSES](sql_for_businesses.com)
 - Journals
  
+😄
+
+🖥️
+
+🐍
+
+|Heading1|Heading2|
+|--------|--------|
+|column1|column2|
+|python|SQL|
+
+**bold**
+
+*italics*
+
+`column 1`
 
       
 
